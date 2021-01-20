@@ -7,7 +7,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'EsenDR', // Usually your GitHub org/user name.
-  projectName: 'ywh-website', // Usually your repo name.
+  projectName: 'ywhsite', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'YWH Website',
@@ -22,10 +22,10 @@ module.exports = {
           label: 'Resources',
           position: 'left',
         },
-        {to: 'blog', label: 'Test', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/EsenDR/ywh-website/tree/main/my-website',
-          label: 'Test',
+          href: 'https://discord.gg/XUYYuu4Ubw',
+          label: 'Contribute!',
           position: 'right',
         },
       ],
@@ -37,11 +37,11 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Mental Health',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
+              label: 'Anxiety',
               to: 'docs/anxiety/',
             },
           ],
@@ -51,7 +51,7 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/XUYYuu4Ubw',
             },
           ],
         },
@@ -59,12 +59,12 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Test',
+              label: 'Blog',
               to: 'blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/EsenDR/ywh-website/tree/main/my-website',
+              label: 'Contribute!',
+              href: 'https://discord.gg/XUYYuu4Ubw',
             },
           ],
         },
@@ -80,13 +80,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/EsenDR/ywh-website/tree/main/my-website',
+            'https://discord.gg/XUYYuu4Ubw',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/EsenDR/ywh-website/tree/main/my-website/blog',
+            'https://discord.gg/XUYYuu4Ubw',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
