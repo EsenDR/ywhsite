@@ -2,7 +2,6 @@
 id: mentalhealth
 title: Mental Health
 sidebar_label: Mental Health
-slug: /
 ---
 
 ## Rise of Mental Illness

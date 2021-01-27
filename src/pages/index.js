@@ -8,29 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Something will go here eventually',
+    title: 'Resources/Topics',
     imageUrl: 'img/YWHicon.png',
     description: (
       <>
-        blah blah blah
+        All the topics can be found here or on the first Resources page.
       </>
     ),
   },
   {
-    title: 'Something will go here eventually',
+    title: 'Discord Server',
     imageUrl: 'img/YWHicon.png',
     description: (
       <>
-        blah blah blah
+        If you found this website on its own, consider joining our discord server! Our community focusses on mental health and venting.
       </>
     ),
   },
   {
-    title: 'Something will go here eventually',
+    title: 'Suggestions/Contribution.',
     imageUrl: 'img/YWHicon.png',
     description: (
       <>
-        blah blah blah
+        You can find information on how to leave suggestions or how to contribute here.
       </>
     ),
   },
