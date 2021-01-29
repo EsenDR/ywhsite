@@ -12,16 +12,16 @@ const features = [
     imageUrl: 'img/YWHicon.png',
     description: (
       <>
-        All the topics can be found here or on the first Resources page.
+        All the topics can be found <a href="https://ywh.netlify.app/docs/">here</a> or on the first Resources page.
       </>
     ),
   },
   {
     title: 'Discord Server',
-    imageUrl: 'img/YWHicon.png',
+    imageUrl: 'img/ywhgif.gif',
     description: (
       <>
-        If you found this website on its own, consider joining our discord server! Our community focusses on mental health and venting.
+        If you found this website on its own, consider joining our <a href="https://discord.gg/XUYYuu4Ubw">discord server</a>! Our community focuses on mental health and venting.
       </>
     ),
   },
@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/YWHicon.png',
     description: (
       <>
-        You can find information on how to leave suggestions or how to contribute here.
+        You can find information on how to leave suggestions or how to contribute <a href="https://ywh.netlify.app/docs/#supporting-us">here</a>.
       </>
     ),
   },
@@ -42,7 +42,7 @@ function Feature({imageUrl, title, description}) {
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
         <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
+          <img className={styles.featureImage} src={imgUrl} alt={title}/>
         </div>
       )}
       <h3>{title}</h3>
@@ -56,8 +56,8 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`💔Your Worries Here❤ ${siteConfig.title}`}
+      description="YWH website for resources, mental health topics, etc.">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>

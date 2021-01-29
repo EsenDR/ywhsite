@@ -1,6 +1,6 @@
 ---
 id: information
-title: Infornation
+title: Information
 sidebar_label: Information
 slug: /
 ---
@@ -29,7 +29,7 @@ import TabItem from '@theme/TabItem';
   ]}>
   <TabItem value="mentalhealth">
 
-  **[Mental Health](https://ywh.netlify.app/docs/)**
+  **[Mental Health](https://ywh.netlify.app/docs/mentalhealth)**
   > Outlining needs for mental health resources, when to get help, and the difference between a Psychiatrist, Psychologist, and Mental Therapist.
 
   **[Anxiety](https://ywh.netlify.app/docs/anxiety)**
@@ -72,9 +72,73 @@ import TabItem from '@theme/TabItem';
   > What is BPD? How does it differ from Bipolar Disorder? What is the correlation between Self-Esteem and BPD? How can we deal with BPD?
   
   </TabItem>
-  <TabItem value="selfimprovement">This is an apple 🍎</TabItem>
-  <TabItem value="spirituality">This is an orange 🍊</TabItem>
-  <TabItem value="ayurveda">This is a banana 🍌</TabItem>
+  <TabItem value="selfimprovement">
+
+  **[Psychology](https://ywh.netlify.app/docs/psychology)**
+  > How do we define the models of the mind? What is the difference between western and eastern models of the mind?
+
+  **[Motivation](https://ywh.netlify.app/docs/psychology)**
+  > Do we lack motivation? What is the psychology to motivation? How does it work? What is the relationship between motivation, laziness, and willpower? In this topic, learn how one can cultivate motivation, how to deal with feeling overwhelmed, and the science behind motivation.
+  
+  **[Procrastination](https://ywh.netlify.app/docs/procrastination)**
+  > What is procrastination? Find out how one can identify what type of procrastination they're facing, and their solutions.
+
+  **[Confidence & Ego](https://ywh.netlify.app/docs/confidenceego)**
+  > What is Ahamkara, and how does it affect our daily lives? How does rejection lead to an ego? How does ego differ from ahamkara?
+  
+  **[Personlity](https://ywh.netlify.app/docs/personality)**
+  > How do we understand our personality? What are the Big 5? Do we need to change our personality traits?
+
+  **[Relationships](https://ywh.netlify.app/docs/relationships)**
+  > This section covers quite a lot of topics relating to friendships, partner relationships, friendzone, and breaking up. Please read this to get a better understanding the inner workings of a relationship.
+
+  **[Communication](https://ywh.netlify.app/docs/communication)**
+  > How can we improve our communication with others? How can we confront a loved one about an unhealthy coping mechanism? How can we find like-minded people?
+
+  **[Learning](https://ywh.netlify.app/docs/learning)**
+  > Explaining the importance of learning, and how we can learn more. In this topic, learn where knowledge comes from, and how our thoughts can shape our motivation. How can you cultivate a mind that supports you? How do you retain information?
+
+  **[Productivity](https://ywh.netlify.app/docs/productivity)**
+  > What are ways to increase productivity? How does conscientiousness relate to productivity? Mapping it onto Eastern Philosophy?
+  
+  </TabItem>
+  <TabItem value="spirituality">
+
+  **[Spirituality](https://ywh.netlify.app/docs/spirituality)**
+  > What is spirituality? Does spirituality need a scientific basis? What is enlightenment?
+
+  **[Dharma](https://ywh.netlify.app/docs/dharma)**
+  > What is Dharma? How can Dharma help us move forward in life? How can you find your Dharma? What is the morality of Dharma? What is the science basis of Dharma?  
+  There are also writing exercises set up for you to complete to help you understand yourself and what Dharma is.
+
+  **[Karma](https://ywh.netlify.app/docs/karma)**
+  > What does Karma truly mean? How does it relate to one's failures and successes? How can we use Karma to further ourselves for our future?
+
+  **[Suffering](https://ywh.netlify.app/docs/suffering)**
+  > How does suffering arise, and how does it manifest? Can we prevent bad things from occurring? What is the difference between pain and suffering?
+
+  **[Meditation](https://ywh.netlify.app/docs/meditation)**
+  > A deep dive into Meditation as a whole. Why should you meditate? What are the goal of meditation, and how can it help you see clearer? What is the right meditation for you, and how long should you meditate for?
+
+  **[Meditation Techniques](https://ywh.netlify.app/docs/meditationtechniques)**
+  > Here are 9 different types of mindfulness/meditation techniques to help you get started. Each technique is explained on how to do the meditation, what it is for, and how it will help you in.
+  
+  </TabItem>
+  <TabItem value="ayurveda">
+
+  **[Ayurveda](https://ywh.netlify.app/docs/ayurveda)**
+  > What is the difference between Ayurveda and Western Medicine? How does Ayurveda go about treatment and diseases? What is the relation between Ayurveda and Mental Health?
+
+  **[Vata](https://ywh.netlify.app/docs/vata)**
+  > Further information about Vata dosha, and understanding the ADHD mind.
+
+  **[Pitta](https://ywh.netlify.app/docs/pitta)**
+  > Gain a better understanding to what a Pitta mind looks like, and what a Pitta should improve on.
+
+  **[Kapha](https://ywh.netlify.app/docs/kapha)**
+  > What are the defining characteristics of a Kapha mind? What should their study model look like? Their diet? 
+  
+  </TabItem>
 </Tabs>
 
 ## Indexing and Learning Center
@@ -94,4 +158,3 @@ There are several other ways you can support us as well.
 
 ## Making Suggestions
 If you have a suggestion for a new write-up or improvements, you can either send a message to [Esen Rurouni#2945](https://discord.com/users/197910825422422016/) on Discord or join the discord server and follow the instructions in [💡ideas-suggestions](https://discord.com/channels/434912082253709313/606353929374138370).
-

@@ -1,7 +1,7 @@
 module.exports = {
   title: 'YWH Resources',
   tagline: 'Your Worries Here',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://ywh.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -24,7 +24,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://discord.gg/XUYYuu4Ubw',
+          href: 'https://github.com/EsenDR/ywhsite',
           label: 'Contribute!',
           position: 'right',
         },
@@ -37,12 +37,24 @@ module.exports = {
           title: 'Resources',
           items: [
             {
-              label: 'Mental Health',
+              label: 'Information',
               to: 'docs/',
             },
             {
-              label: 'Anxiety',
-              to: 'docs/anxiety/',
+              label: 'Mental Health',
+              to: 'docs/mentalhealth',
+            },
+            {
+              label: 'Self Improvement',
+              to: 'docs/psychology',
+            },
+            {
+              label: 'Spirituality',
+              to: 'docs/spirituality',
+            },
+            {
+              label: 'Ayurveda',
+              to: 'docs/ayurveda',
             },
           ],
         },
@@ -64,7 +76,7 @@ module.exports = {
             },
             {
               label: 'Contribute!',
-              href: 'https://discord.gg/XUYYuu4Ubw',
+              href: 'https://github.com/EsenDR/ywhsite',
             },
           ],
         },
@@ -80,13 +92,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://discord.gg/XUYYuu4Ubw',
+            'https://github.com/EsenDR/ywhsite/tree/master/docs',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://discord.gg/XUYYuu4Ubw',
+            'https://github.com/EsenDR/ywhsite/tree/master/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
