@@ -156,5 +156,13 @@ There are several other ways you can support us as well.
 - Finding and Reporting bugs, errors, glitches, etc. on this site
 - Helping out other people on the server
 
-## Making Suggestions
+### Making Suggestions
 If you have a suggestion for a new write-up or improvements, you can either send a message to [Esen Rurouni#2945](https://discord.com/users/197910825422422016/) on Discord or join the discord server and follow the instructions in [💡ideas-suggestions](https://discord.com/channels/434912082253709313/606353929374138370).
+
+### Contributing
+There are many ways to contribute -  
+1. At the bottom of every page is a [Edit this page](https://github.com/EsenDR/ywhsite) which links to the GitHub where you can send a Pull Request!  
+    - If you are knowledgeable in coding, especially JS, feel free to send me a message on discord to help out with the site.
+2. Anywhere it says **Contribute!** will link to the main GitHub page of the website in which you can open Issues to where you see bugs, errors, etc.
+3. If you have made notes on a certain topic and would like to contribute them towards the website, or if you want to make larger edits to certain pages, please contact me on Discord or open an Issue on the [Github](https://github.com/EsenDR/ywhsite).  
+    - Feel free to ask any questions relating to what can be added here.
