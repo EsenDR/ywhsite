@@ -13,6 +13,8 @@ A lot of people think that you should do self-care after a long day. However, se
 
 Sometimes, just be silent by yourself. It is important to let your mind decompress and process. We often just jump from one distraction to the other, whereas it is important to just give your mind some time to process. It might seem boring at first but if you stick with it, you will find how amazing that can be.
 
+---
+
 ## How Stress Makes You Fat
 During our evolutionary stage, the main source of stress was finding food, fighting off dangers, and creating shelter. From a neuroscience perspective, the sympathetic nervous system is designed to help the body endure these stresses. Our body is designed to run from a tiger for a short period of time. Part of this design is the secretion of the hormone cortisol, which is used to put glucose into our blood in times of danger.
 

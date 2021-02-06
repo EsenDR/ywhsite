@@ -16,6 +16,8 @@ In our daily lives, we try our best to avoid suffering. However, despite all the
 We don't lack motivation; our motivation is just pointed in the wrong direction. People struggle to change because they have misdiagnosed their problem as a lack of motivation, rather than shifting it in a different direction.
 :::
 
+---
+
 ## How Does Motivation Work?
 :::tip
 Motivation is not binary ("have" or "lack"). It is multidimensional and there are thousands of calculations that determine what we do.
@@ -124,6 +126,8 @@ If you turn off pain, how do you learn from your mistakes and change your behavi
 
 Do your best not to fantasize. This is why we need to use dharana — changing the focus of your mind. It will help you bat away the fantasies in your mind and change your life.
 
+---
+
 ## Feeling Overwhelmed
 We have two kinds of challenges in life.
 
@@ -145,6 +149,8 @@ Anxiety is basically just thoughts bouncing around in your head due to excess en
 :::tip
 Everyone talks about downward spirals, but upwards spirals exist too. If you start taking care of little things, then you’re going to be able to take care of more things than you realize.
 :::
+
+---
 
 ## Unlocking Motivation
 A lot of the time we feel like we don’t have motivation. But if you really pay attention to your thought process, you will find that you really want to do something and that you really have motivation. It’s not that you lack motivation, it’s that your motivation is blocked by something else.
@@ -193,6 +199,8 @@ It’s not about finding motivation, it’s about unlocking and unblocking your 
 
 Right the wrongs from yesterday. The more that you settle the past, the more you unburden your unconscious mind, the freer you will feel, and one day you will wake up and be able to do what your conscious mind tells you to do.
 
+---
+
 ## Approaches to Motivation
 There are two big approaches to motivation.
 * Outcome Oriented
@@ -207,6 +215,8 @@ Moreover, complacency comes from a goal-oriented mindset. People become complace
 > People often find themselves waiting to find their dharma or duty before acting. This is just like when they say that they are going to wait till they do not feel embarrassed or until they are in shape to go to the gym. It sounds very counterintuitive but everyone does it because people like delaying action.
 
 Waiting to find your dharma is delaying action until certain conditions are met. It is based on the hope that finding your dharma will make life simple and easy. But that is not the case. Our life begins today, despite it being a worse version of what we imagine. So go out and do something challenging.
+
+---
 
 ## Dealing with Burnout
 People often say that they want to change, but they don’t seem to have a reason. They give very hypothetical answers.
@@ -231,6 +241,8 @@ The simplest way to create and sustain motivation is changing your orbit — who
 > For example, the most crucial thing to succeed in meditation is sangha, which is Sanskrit for “community”. Even though meditation may feel like a solo practice, being part of a community anchors people to their practice, and pulls them out of the need for motivation.
 
 Another example of this would be National Novel Writing Month (aka NaNoWriMo) where people who have never written a novel dedicate a whole month to come together to write novels. Many people that want to write novels end up writing them because there are people around them doing the same thing that kept them motivated. It's not a habit, it’s not motivation, it’s structure. So join a community or create a community that pushes you to be better.
+
+---
 
 ## Motivation and Willpower
 Human beings are actually designed to be lazy. We will not do things until and unless we need to. While that is s a common problem for the people in general, it tends to be a particularly severe problem for people.
@@ -272,6 +284,8 @@ Make it easy for yourself to do the things that you want to do.
 > If, for example, you want to go out to lunch try to ask the buddy that you're going out to lunch with, “Hey why don't we go to the gym? First, we'll work out from 10:30 to 11:30 and then grab lunch afterward.”
 
 The more you structure your environment to support your behavior and move you in the direction that you want to go, the better off you'll be. You don't actually need willpower — all you need to do is to structure your environment in a way that prompts the motivation that you want.
+
+---
 
 ## Motivational Styles
 We tend to think of motivation as a monolith. People will say “I lack motivation. I wish I was motivated.” If we tunnel down into that language, then we can understand that motivation has one quality that has a quantifiable number. Or that it is binary: “I have motivation or I don’t have motivation.” As a result, people say “I lack motivation.”

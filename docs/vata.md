@@ -14,6 +14,8 @@ Since they get bored very easily and lack follow-through, doing as many things a
 ### What happens when a Vata gets stuck?
 When someone gets stuck, the most common advice given to them by people is to pick up one thing and just focus on that. That is very bad advice for a Vata. The reason a lot of Vatas get stuck is because they listen to advice that is for a brain with a different cognitive fingerprint than theirs. Their brain is not wired like that — it is somewhat ADHD. Therefore, they need to build a life that is somewhat ADHD. For example, one strategy would be to start a business, enroll in classes, find a job and start writing their book. They should dive right into it, and do as many things as they can. Finding the right balance takes time and practice.
 
+---
+
 ## The Vata Strategy for Success
 For those who are extremely Vata - try to do more than one thing. They go back to video games because they get bored of doing just one thing. But if they have something else that is interesting and exciting that they can turn to instead of staring at a screen, then they are going to do way better. If they only enroll for one class and get bored of it by the end of the first one, then they will start watching YouTube again (which has its particular addictive properties and is not easy to give up).
 
@@ -23,6 +25,8 @@ Our society has a standard of maturity. Vatas come across as immature, because i
 Immaturity is a label of “badness” — it means you are doing a suboptimal job at living life. Vata minds have certain strengths and weaknesses and until they structure their life to align with their stats, they are going to appear immature.
 
 For example, Esen does a bunch of different things. Some friends of his are hardcore nerds — they are experts in one field. They have no idea how Esen can manage to do all the things that he does. They say that if they try to do all those things, they would be pretty bad at it. Esen feels the same way about their work — if he were to do the same thing day in and day out, he would be bad at it.
+
+---
 
 ## Vata Motivation
 Vata (wind type) minds are dynamic, which means their mind is all over the place. They are also prone to ADHD and anxiety. They get very excited about one thing, and lose interest equally quickly. A lot of people say that their motivation comes and goes, and so they lack follow-through. They think that this is a problem to be fixed, and that is when they get stuck.
@@ -34,6 +38,8 @@ While they can lose interest quickly, they can count on getting excited about th
 :::caution
 Vatas should also be careful about anxiety. Since their mind is all over the place, they predict problems very easily, and these predictions can hamper their motivation. Meditation techniques like Alternate nostril breathing and Bellow’s Breath can help with this.
 :::
+
+---
 
 ## Vata Diet
 The simplest solution to Vata problems is to get your bowels moving regularly. If you’re constipated, fix that. The Vata dosha is characterized as being cold and dry, so you want to eat foods that are warm and moist. If you have an option between a soup or a salad, pick soup.

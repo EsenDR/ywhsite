@@ -141,9 +141,13 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
+---
+
 ## Indexing and Learning Center
 This is the resource page for [💔Your Worries Here❤](https://discord.gg/XUYYuu4Ubw). It is a work in progress. If you don't find the information you're looking for, please suggest it be added here in the server.
 The purpose of this place is for people to introduce you to everything you need to know about the topics of Mental Health, Self Improvement, and even Spirituality. Originally as hand-written notes by Esen, they have been converted for everyone to view and understand.
+
+---
 
 ## Supporting Us
 :::info

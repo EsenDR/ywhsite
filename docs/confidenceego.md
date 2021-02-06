@@ -12,6 +12,8 @@ Go to a national park, find a hill or boulder, and set yourself the goal of clim
 
 Most people don’t realize that the external reward of doing something is damaging to confidence and builds up your ego. Spending time in nature is a great way to build confidence because nature does not judge you.
 
+---
+
 ## Self-Belief
 If you’re not walking the traditional path, then that’s completely fine. But you have to figure out your untraditional route. The more that you accept that your path is going to be your own, the easier it will become to walk it.
 
@@ -36,6 +38,8 @@ Dharma is a Sanskrit word that means duty or responsibility. You find your dharm
 You live in a world where you don’t have to break into the industry. The barrier to publication is so low that you can just make something. You don’t even have to get a contract from a publisher any more — you can just self-publish on Amazon. You can make a video game and just put it on Steam. Success is not easy, but the advantage that you have is that you don’t have to follow the traditional model.
 
 Find out what you care about and then look at the array of career options, and find one that fits. Think about your situation, the circumstances of your life, think about the hand you were dealt, and think about the emotions that keep you from pursuing your dream.
+
+---
 
 ## Ego
 Ahamkara is the Sanskrit word for ego. It is more closely translated as the “I” feeling. When you think about who you are, that is ahamkara.
@@ -95,6 +99,8 @@ Disinterest in your success is good. The Sanskrit term for it is Vairagya, and i
 The truth is that anytime you do something in the present, that’s all you are. For example, when you look at a sunset, at that moment, you’re not a man or a woman, you’re just looking at a sunset.
 :::
 
+---
+
 ## Formation of Ego
 There are parts of your brain that develop in puberty, which start to care about the opinion of others. That is partly why high school is such a tough time. It is the time when people’s brains start to develop the capacity to understand that others have a sustained and nuanced opinion of yourself.
 
@@ -113,6 +119,8 @@ Moreover, when human beings believe something about themselves, they form a cogn
 :::info
 There are studies of depression, in which a person gets 50% compliments and 50% insults. Their mind ends up prioritizing the insults over the compliments. If you have low self-confidence, and someone compliments you, then you are likely to think that the other person is lying and you do not accept that compliment. In that scenario, the brain has basically discounted any positive data you received and is only ready to accept the negative data since that is the one that reinforces your low self-confidence.
 :::
+
+---
 
 ## Self Worth
 The way to increase self-worth is by understanding that your identity and self-worth is based on the reflection of people around you, and then change it to be based on yourself in isolation, not in relation to anyone else. Give yourself a sense of worth and identity based on yourself, because the medication will not fix your identity.
@@ -133,6 +141,8 @@ Then the question becomes, when was that thing born? Where does that come from? 
 > For example, if you tell someone on Twitch that they are a good looking person, then they are more likely to recoil rather than if you tell them that they are smart. There are some aspects of your personality that you are ok with being above average.
 
 When did you start to feel that you are unattractive? Start to go back to that feeling and work out its origin. Acknowledge for a moment that these people are seeing something within you. Even if you disagree, or maybe they are trying to be nice, they are basing it on something. As best as you can, try to see what is this person seeing that I am not able to see. Other people may know things about you that you don’t know about yourself.
+
+---
 
 ## Standing Up For Yourself
 A lot of people think that they are doormats because they are weak. They think that they cannot stand up for themselves because they are insecure. However, they misdiagnose the problem. As a result, it is so hard for them to stop being a doormat.

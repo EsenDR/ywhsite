@@ -9,6 +9,8 @@ The first thing to understand that if you're around people and you feel lonely, 
 :::caution How can you feel connected when all you show people is a piece of you?
 :::
 
+---
+
 ## Putting on a Mask
 You put on a mask because you're afraid of what people will do if you don't have the mask. There is something inside that you don't want people to see.
 
@@ -27,6 +29,8 @@ The more successful the mask is, the more alone you feel.
 :::
 
 The mask is doing exactly what it is supposed to do. It is supposed to get you invited to places and get people to interact with you. You think that is the antidote to loneliness because it is increasing the number of interactions. And yet you become more and more isolated.
+
+---
 
 ## The Solution
 The first thing to understand is that there is a part of you that you are afraid of people seeing. It's going to be hard, but you need to show it to some people. You should be your authentic self. Recognize that as you try to be your authentic self, there is going to be a part of your mind that rebels. It will be afraid that if you stand up for yourself, it could rupture your relationships. However, at the same time, it is authentic.

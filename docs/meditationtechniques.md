@@ -43,6 +43,8 @@ You can set a timer to do this, but you can also keep doing it until you are don
 Remember to breathe in through the same nostril you exhaled from. If you have a deviated septum, this meditation is not recommended.
 :::
 
+---
+
 ## Bellow’s Breath (Kapalabhati Pranayama)
 Kapalbhati is a sequence of forceful exhalations followed by a series of passive inhalations.
 
@@ -63,6 +65,8 @@ The space after the practice is the whole point. It is not just the breaths them
 
 This meditation is particularly useful for anxiety. An anxious mind is a mind full of energy — it wants to go as fast as possible. What Kapalbhati (bellow’s breath) does is meet your mind at the speed that it is at, and then gently slows it down. Forcing the anxious mind to slow down is not effective. If you run with the anxiety for a little bit, and then start to slow down, the mind will slow down as well. It is similar to a dog that is really excited. If you try to make it sit still, it will not work. But if you run with it for a bit, and then slow down and stop, it will slow down as well.
 
+---
+
 ## Third Eye Meditation
 1. Take your middle finger and hover it a centimeter from the middle of your eyebrows (don’t touch).
 2. You might feel a tingling sensation.
@@ -79,6 +83,8 @@ People think that meditation is only about calming your mind, but actually it's 
 If sensations come out in meditation, let them come out. That is how it heals you. When stuff gets suppressed, it comes out in maladaptive ways. Sometimes when things are buried, then they start to come out in meditation.
 :::
 
+---
+
 ## Breath + Third Eye Meditation
 1. Close your eyes
 2. Sit up straight or lie down on your back
@@ -90,6 +96,8 @@ If sensations come out in meditation, let them come out. That is how it heals yo
 8. Follow the breath wear it goes and focus on where the breath moves
 
 Do this meditation for a week, every day, and see where within your body you see a temperature change. Pick a spot and see what you can feel. Do not let your mind get in the way.
+
+---
 
 ## Triphasic Breathing Meditation
 ### How to do this meditation
@@ -116,6 +124,8 @@ It sends signals to dilate the arteries, which facilitates more flow. The other 
 The tricky thing in meditation is that the way that you enter the no-mind state in meditation is by having no expectations. The first time you meditate, you do not know what to expect, and that is when you can sit fully with the experience. Once you sit with an experience, then that creates an expectation to have that experience again, which makes it hard to meditate. The most difficult spiritual experience to have in meditation is the second one, not the first one. This is the most common challenge in meditation.
 
 Recognize that for some time it is going to be harder to get that meditation going again. When you have thoughts such as “oh, this is not working”, just return to the technique. Return to the breath. Ignore whether it is working. If it is working, that’s fine, if it is not working, that’s fine too. Focus on the technique. That is what got you there in the first place, and it is what will get you there again.
+
+---
 
 ## Yoga Nidra
 ### How to do this meditation
@@ -150,6 +160,8 @@ Here is the order for reference. At each step, add one body part, hold for a few
 16. Feel the person that you are. Feel the peace, the blackness, the residual heat.
 17. Come back. Big, deep breaths, slow exhalation. Let your body and mind re-awaken. Slowly open your eyes.
 
+---
+
 ## Bee's Breath Meditation (Shanmukhi Mudra and Bhramari Pranayama Meditation)
 ### Shanmukhi Mudra
 Shanmukhi Mudra is the Sanskrit for “Sealing of the Six Gates”. The purpose of this Mudra or gesture is to close off your awareness outside of your body and concentrate your awareness inside.
@@ -168,6 +180,8 @@ Bhramari Pranayama is the Sanskrit for “Bee's Breath.” As a bee flies from f
 As a beginner in meditation, we often feel discouraged because of our improper technique or lack of “effects.” We avoid meditating to avoid this feeling of failure/uselessness. You meditate until that feeling goes away. “The more you do this practice, the more that “you are incapable” feeling melts away”.
 :::
 
+---
+
 ## Guided Sound Meditation
 ### How to do this meditation
 1. Close your eyes and sit up straight.
@@ -184,6 +198,8 @@ There is someone that lives your life filled with fear, anxiety, and stress. The
 There is a person or place within you that is free from the hardship of life. So when you are dealing with the hardship of life, ask yourself what would the listener do. Ask yourself why life is hard?
 
 Life is hard because your problems are present all the time. The listener would just do what they need to do because they do not care. The future and the past paralyzes you. Yet the listener is focused on the present. So be more like the listener and just do it.
+
+---
 
 ## Ujjayi Pranayama (Darth Vader Breathing)
 Another technique you can do is Ujjayi Pranayama, aka Darth Vader breathing technique.

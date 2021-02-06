@@ -48,6 +48,8 @@ You do not need to have a massive problem in order to see a therapist. You can g
 | Duration of Training | 4 years of medical school 4 years of psychiatry training | 5-7 years of school 1-year post-doctorate | 2 years of social worker training |
 | Other | Can prescribe medication | Usually cannot prescribe medication | Can be a social worker, psychiatrist, or psychologist |
 
+---
+
 ## Helping a Friend Struggling With Mental Health
 As a friend, you are not responsible for someone else’s mental health. You are not a therapist. Support from friends is not a substitute for therapy and medication from a therapist. Be supportive by being a good friend but do not think that you can replace professional help.
 

@@ -40,6 +40,8 @@ People can trade one addiction for another, and also throw themselves into work,
 
 Often times, the addiction tends to fill that hole for people. People find it hard to quit, especially when their primary community is focused around it because when they try, they feel a sense of emptiness inside them. The only way to resolve that addiction is to find a way to fill that hole without being addicted to something.
 
+---
+
 ## Complete Abstinence as a Strategy
 People use the same wisdom to combat today’s addictions (such as social media and phones) as the wisdom originally used to combat substance-use disorders such as alcohol or drug abuse. However, today’s addictions are fundamentally different than the addictions of the past, and therefore require new methods to combat them. Old methods such as abstinence can help, but they are not the only way.
 

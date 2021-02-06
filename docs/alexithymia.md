@@ -13,6 +13,8 @@ Most people have trouble dealing with their emotions because they either suppres
 > For example, people who say that they are "in control" of their emotions often say "I can watch/experience... and I will not feel...". This is not control. This is suppression. When people suppress one emotion, they suppress all emotions.
 :::
 
+---
+
 ## Emotional Suppression
 Here's why we suppress our emotions:
 
@@ -25,6 +27,8 @@ When we experience negative emotions at an early age and have no one to guide us
 Men are taught not to express emotions such as fear, sadness, and shame. They are taught to show only one negative emotion, which is anger.
 
 > For example, we see this in the way that men express their emotions in physical language (psychosomatic) like "kick in the nuts," or "butterflies in my stomach."
+
+---
 
 ## Unsuppressing Emotions
 ### Recognizing Emotions
@@ -52,10 +56,14 @@ When you experience these emotions, try to find them on this wheel of emotions.
 2. Work on the body. Physical feelings are psychosomatic with emotions, and emotions are psychosomatic with physical feelings. Doing things such as yoga can help process your emotions. It also improves anxiety and depression because it is mind-body exercise. Working out is good but does not engage the mind as well as yoga. Meditation are also a good way of processing emotions.
 3. Work on the mind. This means having conversations with friends, talking to a therapist, talking with mental health coaches, joining a men's/women's support group, attending refuge recovery like AA, or CGAA, meditating, and journaling.
 
+---
+
 ## Emotional Instability
 That is called emotional lability and it is tied to gaming. Video games suppress our emotional circuitry and those emotions remain floating right beneath the surface. The nature of having them float so close to the surface is that they can explode very easily and then calm down easily as well. That is what happens when people do not process their emotions and suppress them via gaming.
 
 A lot of these mood swings come from suppressing emotions and then having them resurface when the pressure builds up again and again. The solution is to process and let out the emotion, which can be done through therapy, meditation, etc.
+
+---
 
 ## Emotional Suppression
 The brain's amygdala and hippocampus turn on when people experience pain. When people play games these parts of the brain shut off. As a result, video games reward people by suppressing negative emotions.

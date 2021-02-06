@@ -13,6 +13,8 @@ It’s based on Ayurveda because Myers Briggs was based on the work of Carl Jung
 
 It’s a useful lens to understand behavior but not a good way to make predictions. However, it can be used to plan and structure your life to accommodate strengths and weaknesses.
 
+---
+
 ## The Big 5 (Five Factor Personality/OCEAN Model)
 The Big 5 is the most validated framework for personality. The Big 5 states that most people’s personalities can be placed on five different axes. The axes are
 1. Openness (how accepting of new experiences someone is)
@@ -28,6 +30,8 @@ Openness has a split along political lines in the US: liberals score higher and 
 :::caution
 People may think being high in neuroticism is bad but if you are really low in it you’re basically the pothead that sits around and never does anything (are also low in conscientiousness).
 :::
+
+---
 
 ## Changing Your Personality Traits
 While everyone has an intrinsic personality, it is possible to learn different ways to behave and act.

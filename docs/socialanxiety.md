@@ -10,6 +10,8 @@ People that are bullied often have social anxiety. Bullying is a bad experience 
 
 As a result, the victims’ mind learns to detect whenever there are a lot of people around so that their survival instincts kick in. And the mind also learns that the only way to be safe is to not be around other people. This mind learns to do this to protect itself from being bullied. It's important to understand and not blame the mind for the discomfort of anxiety because it is doing its best to care for people’s safety.
 
+---
+
 ## Dealing with Social Anxiety
 1. Cultivate the observant self to acknowledge when the anxiety is reacting.
 2. Cultivate a meditative technique/breathing exercise

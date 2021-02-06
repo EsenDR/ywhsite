@@ -9,6 +9,8 @@ An intrusive thought that comes from within your mind. While usually, our mind w
 
 > Imagine you are going about your business and a random thought pops up, (it is usually negative in nature). This is an intrusive thought.
 
+---
+
 ## The Origin of Intrusive Thoughts
 An intrusive thought comes from a samskara. These are subconscious balls of energy that echo in our minds because we hold on to experiences from the past. If you observe an intrusive thought and study its nature, you will realize that it is not random. It comes from within our mind.
 
@@ -17,6 +19,8 @@ While in some cases, like in OPCD, people will have random intrusive thoughts th
 :::
 
 An intrusive thought is an echo of a really powerful thought that you used to have. At some point, you probably had a really powerful thought that had a lot of energy. This energy is still echoing in your mind.
+
+---
 
 ## Dealing with Intrusive Thoughts
 We can deal with intrusive thoughts in the same way that you deal with a room that has an echoing sound. You open the door and let that energy dissipate.

@@ -38,12 +38,16 @@ You end up signing away the rights to control your life to the outside world. An
 
 To solve this, you start by going to the source of your insecurity. Recognize that if your confidence in yourself is lacking, the only place that it is going to come from is within. If you are insecure about your appearance, no amount of reassurance from the outside world is going to make that go away. If you are insecure about your capability, about your worth, your value, then no amount of the outside world is going to be able to give those things to you.
 
+---
+
 ## Overcoming Insecurity
 Sit with the feeling of insecurity. Look at yourself in the mirror, and then try to find that insecurity. Try to find the ugliness.
 
 You may see it immediately, and you may think to yourself, “oh my god, I am hideous.” Notice how you feel, and sit with that feeling. Tolerate that feeling. Tolerate the hunger. Sit with it.
 
 It will be a waiting game. The insecurity is going to feed thoughts into your head. Be careful, don’t give into those thoughts. Put your focus on something else.
+
+---
 
 ## Meditation for Insecurity
 1. Place a mirror in front of you, and put a candle between yourself and the mirror.
@@ -55,6 +59,8 @@ It will be a waiting game. The insecurity is going to feed thoughts into your he
 With each of those moments, the hunger will start to subside and melt away, because you have stopped feeding it. If you do this practice enough, the insecurity will dissolve with it. All you have to do is stop feeding it.
 
 Eventually, you need to learn and practice how to tolerate the bad feelings on the inside. As you learn to sit with them and accept them, they will start to dissolve. The insecurity will dissolve with it.
+
+---
 
 ## Key Takeaways
 **Stop fighting yesterday’s battles today.** Everyone might have made fun of you, but you do not have to show the rest of the world how awesome you are — that’s yesterday’s battle, not today’s.

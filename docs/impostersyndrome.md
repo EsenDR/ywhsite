@@ -6,6 +6,8 @@ sidebar_label: Imposter Syndrome
 
 Many people struggle with internalizing their successes. We attribute the success to external factors, say that "it was given to me" rather than it was earned, or claim that there is more that could’ve been done to justify responsibility. Via this reasoning, achievements are made to feel less satisfying.
 
+---
+
 ## Origins of Imposter Syndrome
 :::info
 Imposter syndrome comes from having a part of your mind tell you that you should be someone else that doesn't reflect this sense of self or trying to be something else.
@@ -32,8 +34,12 @@ Some questions to ask yourself to diagnose these thought producers:
 
 To feel like a fraud/imposter, you need to believe that you are not who you are, and these beliefs need to come from somewhere. The origin of these beliefs can “set the bar” and create judgements respective to the “bar,” positive or negative.
 
+---
+
 ## Effect of Imposter Syndrome
 Imposter syndrome robs you of the satisfaction of living and being who you want to be. It can also lead you to a path where you constantly feel “not good enough”. Moreover, you might end up chasing a path that does not make you happy for who you are. The feeling that you are not good enough becomes a norm and stops hurting because it is now a fact to your mind.
+
+---
 
 ## Overcoming Imposter Syndrome
 1. Discover the source of the thought machine

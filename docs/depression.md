@@ -27,6 +27,8 @@ Congruent depression can be long-lasting. It can last for years or even your ent
 
 For example, if someone has been depressed every day for 15 years, then it is likely that something in their life is fundamentally lacking. People who have congruent depression often have a life that lacks purpose. They lack motivation and feel lonely and paralyzed. They feel stuck. They feel like they are living their life on autopilot. Their life can feel like a blur. They can feel behind when they compare themselves to other people.
 
+----
+
 ## Why Do We Get Depressed?
 Depression is our brain’s way of signaling to us that we have to fix something in our life.
 
@@ -41,6 +43,8 @@ Our brain evolved millions of years ago and is designed for a simpler lifestyle.
 > For example, in years past, your job might have been determined by what your family does, and you may not have needed to find your purpose in life. But now if you lack purpose, then there isn’t a clear answer as to how you find your purpose.
 
 That means that you wake up every day and feel depressed. That is congruent with your life because your life does not have purpose. If you are not really doing anything that benefits your world in a profound way, it makes sense for you to feel depressed.
+
+---
 
 ## Dealing With Depression
 If you're sad then that's kind of okay, it's a natural part of the human experience. But if you're so sad that you can't go to work, if you're so sad that you can't be the person that you need to be for your spouse, your kids, or the people around you, then we call that depression.
@@ -73,6 +77,8 @@ Talk with your doctor about these things. Do not just get a blood test and draw 
 1. Anemia
 2. Thyroid Problems
 3. Vitamin D and B12
+
+---
 
 ## Dealing with Self-Doubt
 One can deal with self-doubt by failing in a safe manner. Failing with survival is the path to overcoming that feeling. You need to keep failing.

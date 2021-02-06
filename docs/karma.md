@@ -13,6 +13,8 @@ Often people say that Karma is "what goes around, comes around" but this is not 
 
 Another way of understanding Karma is by looking at genetics. Genetics has an order and predictability in understanding how someone is shaped to be. Like genetics, you are the result of the circumstances around you, your birth, your family's circumstances, and an infinitely preceding set of causes and circumstances that have led to the effect that is you.
 
+---
+
 ## The Importance of Karma
 Karma gives you the opportunity to accept your failures. If you find it hard to accept failure, chances are that you need to dig deeper and see if you really did give it your all. If you really did give it your all, then the consequence is simply out of your control. If your all wasn't enough, then that is okay. It was simply your Karma, or your set of circumstances.
 
@@ -32,6 +34,8 @@ The default position for human beings is believing that we are not failures and 
 
 ### Sowing Seeds for the Future
 Think of karma as a seed that can be planted. The seed can be planted but it does not mean that the seed will grow and bear fruit. Likewise, people can act to influence their karma, but it does not mean that they will get the results they are hoping for. No one decides whether there will be results.
+
+---
 
 ## Focusing on Action
 When you truly believe that you have done everything that you can, it becomes easier to accept failure and it becomes easier to act. When you give it your all and you fail, there is a bizarre amount of peace that comes with that. You can be proud of what you managed to accomplish and the fact that you chose to act, rather than ashamed of how you fell short. Instead of focusing on creating results, focus on cultivating, planting, and acting.

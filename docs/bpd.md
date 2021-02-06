@@ -17,6 +17,8 @@ Since people with BPD treat themselves like they observe other people treating t
 
 However, eventually, their caregivers get tired of this behavior and burn out. This tells the person with BPD that the strategy they are currently employing to elicit a response of care from their caregiver/friend is not enough, and as a result, the intensity of their behavior escalates.
 
+---
+
 ## Bipolar Disorder vs. Borderline Personality Disorder
 Bipolar disorder is a mood disorder — it is something that happens to you. Mood disorders are independent of who you are.
 
@@ -35,6 +37,8 @@ People who are severely manic think that they can do things that other people ca
 :::info
 In order to be diagnosed with depression in bipolar disorder, you need to be depressed on most days for two weeks. For mania in bipolar disorder, the timeframe is one week.
 :::
+
+---
 
 ## Self-Esteem and BPD
 If someone does not feel like a valued person, then they are probably paranoid about the fact that their partner will see them for “who they are.” They feel as if they have tricked their partners into being with them, and if their partner were to find out who they really were, they would leave.

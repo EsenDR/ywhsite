@@ -76,6 +76,8 @@ Recognize and be aware of what thoughts are coming from which part of the mind. 
     1. How do you know if your logic is flawed or correct?
     2. Look for the thoughts that make you think you are right — is there evidence or justification?
 
+---
+
 ## Understanding Yourself
 You have to understand how you work because nobody else is going to be able to tell you how you work. Spend some time paying attention to yourself. Spend time being with yourself. Maybe even try staring at a wall. It is a brilliant exercise, and really hard to do.
 

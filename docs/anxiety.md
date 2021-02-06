@@ -10,12 +10,16 @@ Our mind is designed to predict problems in the future. That is one of the most 
 :::info Anxiety is our mind's ability to predict problems in the future.
 :::
 
+---
+
 ## Characteristics of Anxiety
 1. Anxiety is worse for intelligent people. That is because a higher intelligence correlates with a better ability to predict problems in the future.
 2. Anxiety is not an illness that infects us. For most people, it is a maladaptation of a normal function of their mind.
 3. Anxiety is learned, and depending on one's past experiences, it can manifest in different ways. Therefore, it is often a learned protective mechanism that developed during exposure to threatening situations.
 
 Anxiety can cause a lot of suffering. However, since it is a part of our mind, we can tame it. We can learn to control it and activate it when we need it, instead of allowing it to control us.
+
+---
 
 ## Manifestation of Anxiety
 Anxiety usually manifests in the form of future-facing thoughts. These thoughts typically have two components:
@@ -31,8 +35,9 @@ Therefore, an anxious thought is usually something like:
 
 Anxiety can also manifest as physical sensations such as tightness in your chest, nausea, butterflies in your stomach, headache, sweaty palms, and/or shortness of breath.
 
-## How Anxiety Harms Us
+---
 
+## How Anxiety Harms Us
 Uncertainty is really frightening, and so we try to remove the uncertainty. We try to alleviate our anxiety by trying to control something in the future.
 
 > For example, if you crack a joke at someone’s expense, you might worry about offending them. Your mind will tell you to apologize just in case, even though they haven’t given you any reason to believe that they were offended. You might try to remove the uncertainty of that person being offended by trying to apologize just in case.
@@ -57,6 +62,8 @@ Anxiety is also often rooted in some kind of insecurity.
 
 For example, consider hanging out with your dog. Are your anxious? Why not? Its because you have confidence that your dog likes you as a person. Also consider why you do or do not feel anxious playing a competitive video game. You might be confident about your ability to engage in the game, even though you might win or lose. You have faith in yourself to face that uncertainty.
 
+---
+
 ## Effects of Anxiety
 <div style={{textAlign: 'center'}}>
 
@@ -76,6 +83,8 @@ In contrast, a non-anxious thought process goes something like this:
 3. The solution solves the problem, which leads to fewer thoughts.
 
 Therefore, problem-solving is linear and results in fewer thoughts, which is relaxing compared to anxiety.
+
+---
 
 ## Coping with Anxiety
 Effective coping mechanisms for anxiety usually shut off this cycle in a certain way. Some examples include:

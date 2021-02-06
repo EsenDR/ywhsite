@@ -26,6 +26,8 @@ Buddha talked about Dukkha (suffering). Suffering is outside of the mind while w
 
 While the source of suffering is attachment, pain, and emotions are products of the mind. Attachment is rooted in the mind but suffering happens outside of the mind.
 
+---
+
 ## How to Avoid Suffering
 You can't avoid pain in life but you can do something about suffering. The way to end suffering is by cultivating detachment by focusing on your actions instead of their presumed outcomes. The result of cultivating detachment and living a detached life is living a life of fulfillment.
 

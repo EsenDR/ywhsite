@@ -18,6 +18,8 @@ A huge advantage of this approach is that it gives you a lot of tolerance for su
 
 In everyday life, our response is usually to protect our ego and move away from a chance of failure. However, by doing this you can end up becoming stuck. While it is understandable that we do whatever we can to move away from negative emotions and suffering, it is exactly that which gets us stuck in life.
 
+---
+
 ## Why do we need Dharma?
 While people want to make changes in their life, they often find themselves making excuses for why progress and growth are too hard. The paradoxical thing is that even though we want growth and progress, moving towards them does not actually feel good. It is tough, uncomfortable, and painful, and requires a lot of resilience.
 
@@ -64,6 +66,8 @@ While one can work on developing these traits, dharma is the easiest way to chan
 Dharma is not necessarily about helping others. Helping others is just an example of a motivator that helps us take on the pain. If you do not have a duty or responsibility to other people, you have a duty or responsibility to yourself or a cause that you believe in.
 
 For example, there are monks that sit in caves meditating, that do not interact with people. You could be an author that lives in the woods and feels the need to write a story about your life - and you could be living in service to your dharma.
+
+---
 
 ## How Do I Find My Dharma?
 You don't find your dharma — it either finds you, or is given to you through your Karma (circumstances).
@@ -199,6 +203,8 @@ However, there is a difference between clinical depression and unhappiness. If a
 The analytical mind is Shiva, which means intention, and the creative mind is Shakti, which means creativity. A good mixture of creativity and intention is necessary in order to accomplish things in this world. In Hindu tradition, Shiva is male and Shakti is female.
 :::
 
+---
+
 ## Authenticity and Truthfulness
 Living a life of falseness and put on a mask is fatiguing. People don’t live a life that is spiritually fulfilling and that is why they feel low-energy. Energy comes from living a life of purpose — doing something that gives you strength. That is what matters.
 
@@ -224,6 +230,8 @@ True acceptance does not mean turning a blind eye to the “bad half” of you. 
 
 True authenticity and real Satya means looking at the things that you are doing right AND that you are doing wrong. There is a fine line between not judging yourself for being where you are and accepting that it is okay to want to change and that you should change and grow.
 
+---
+
 ## The Scientific Basis for Dharma
 In science, we call dharma a competing interest. And it has been shown that a competing interest can help someone recover from addiction.
 
@@ -235,6 +243,8 @@ You can give yourself a million reasons and learn a bunch of information about s
 
 #### Finding a Competing Interest
 Dharma comes from experience, study, and reflection; not logic. Go out and do something. Go and do things in spite of your anxiety. You do not have to be with people. Do something for yourself. Take care of yourself.
+
+---
 
 ## A Story on Dharma and Morality
 One of the best ways to move forward in life is to live your dharma and find out what your dharma is because it gives you strength. There is a story of a guy named Bhishma, the son of a King. Bhishma is growing up just fine and the king is proud that his kid is a good crown prince. The king has no wife.
@@ -249,6 +259,8 @@ In Western thinking, we have the idea that morality is a dichotomy of good and e
 
 > Read this story and examine the three characters. Who is following their dharma and who is not? The story might make you react as hating the father of the woman but what is his Dharma? Is Bhishma a good guy? Low wisdom, low intelligence, but lawful good, and not doing his dharma. A father is supposed to mostly sacrifice for the son, not the other way around. In the story, the "villain" has done their dharma but the good guy didn't.
 
+---
+
 ## Can Dharma be negative/evil?
 Blind goodness and blind evil are not dharma. Dharma acknowledges that painful decisions have to be made in life which might look evil from an absolutist stance. Sometimes you have to look out for yourself and sometimes for certain things over others, such as your kingdom over your father. Life is not black and white.
 
@@ -261,6 +273,8 @@ People that want to hurt other people have a sense of inequality rooted in anger
 :::info
 Some good books to read to understand yourself: Man’s Search for Meaning by Viktor Frankl, Count of Monte Cristo by Alexandre Dumas, and Mahabharata by Vyasa.
 :::
+
+---
 
 ## Experiencing Dharma
 A lot of the values and ways that we look at life which are based on Western philosophy leave something to be desired.

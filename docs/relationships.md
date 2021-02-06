@@ -40,6 +40,8 @@ Relationships on the internet tend to be stronger than the relationships that yo
 
 Online relationships are different because regardless of where you are in life, you can hang out with the same group of people over the internet. You can still play the same games together regardless of which school, college, or institution you are currently in. In that sense, online relationships tend to last longer and are more authentic compared to some real-life relationships.
 
+---
+
 ## Dating
 The most important thing to understand is that relationships change over time, because the people involved change over time. You should not try to preserve or hold on to a particular part of a relationship because it will probably change as a result of the change in the people involved.
 
@@ -118,12 +120,16 @@ You should focus on yourself most of the time, but if you find yourself at an ev
 
 Chances are that 50-60% of people are in relationships or not looking to date, in which case there is a decent chance that they are going to say no. But when you ask someone out, you should watch their face and observe their response to your question. See if you made them feel good by asking them out. This is important because if you come across as a creep, then chances are that they are not going to feel good from you asking them out.
 
+---
+
 ## Communicating Attraction
 First of all, understand what you really feel about this person, because its possible to be really good friends with someone and not be physically attracted to them, but not have a romantic component. We see that in platonic relationships all the time. Check if you are actually in love with this person.
 
 Have a conversation with them. Say, “Hey, I care about you a lot as a friend and I find myself being attracted to you as well. Maybe there’s a chance for a relationship here, but at the same time, I also value your friendship and I don’t want to risk that.” Then follow that up with an open-ended question: “What do you think about that?”
 
 Enroll them in your decision-making process, because we run into trouble in relationships when one person makes all the decisions. A solid foundation for a relationship is communication. Sit down and talk about whether you want to try the relationship or not. Recognize that you might be afraid of rejection, and notice that.
+
+---
 
 ## Abusive Relationships
 Sometimes we have these experiences in life that hurt. They can be very dehumanizing. At the same time, we may look at other people and see them being treated with value. That difference in treatment hurts so much that our mind has to come up with a reason for why people have treated us that way.
@@ -161,6 +167,8 @@ Assign responsibility, accept it, forgive, and that’s when you can be free. Th
 :::info
 The things that we do to protect ourselves from hurt are the things that sign us up for more hurt down the line.
 :::
+
+---
 
 ## Taking Care of Loved Ones
 Most suffering comes from the expectations that people set for themselves. These expectations are based on emotions such as guilt, shame, and fear, which prevent people from thinking clearly. Yet, even though they understand this, people do not question the conclusions they arrive at using those emotions.

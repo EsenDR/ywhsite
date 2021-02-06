@@ -36,6 +36,8 @@ One of the biggest problems that people run into is that they assume that they�
 Ayurveda says that there is more than just one route to success. If your cognitive fingerprint is different, then the way that you can be successful is to play to your strengths.
 :::
 
+---
+
 ## Doshas
 Ayurveda treats a person instead of a disease. It presumes that all human beings are different and that to help someone, you have to understand how they function individually.
 Ayurveda has a concept called the doshic balance. Doshas are the three major patterns that govern what people are like. Every individual has a unique cognitive fingerprint and different people have different kinds of cognitive fingerprints.
@@ -54,6 +56,8 @@ If you are a battle mage, then you are a Kapha-Pitta-Vata (tri-doshic). You do s
 
 In a sense, everyone is tridoshic — everyone has some level of each dosha. If you think of these as stats, then everyone has a certain number of each stat. Higher numbers do not necessarily mean better things.
 
+---
+
 ## Disease and Treatment
 Disease in Ayurveda arises when one of your dosha levels is either too high or too low. For example, if a person is high Vata, then their mind is very dynamic. But if that Vata score were to climb 10 points higher, than they would be ADHD. It would mean that their mind has gotten so dynamic that they cannot focus on any one thing for any significant period. If they have low Kapha naturally, and it drops a few more points, then they might get sick very easily.
 
@@ -62,6 +66,8 @@ If you do have an autoimmune disease, and if you do Vata-lowering treatments, yo
 Ayurvedic treatment works by modifying your levels of the three doshas. It gives you buffs or debuffs that raise or lower your levels of the three doshas. The amount that your Vata, Pitta, and Kapha have deviated from the norm is called the Vikriti.
 
 According to Ayurveda, some foods will lower or raise your levels of Vata, Pitta, and Kapha. There are lifestyle changes that will do the same.
+
+---
 
 ## How to Balance Doshas
 If a person balances their Vata, all the problems that arise due to high levels of Vata are going to get better. Their anxiety, sleep, skin, and bowel movements will get better. The same goes for Pitta and Kapha doshas. In Western medicine, this concept is understood clinically. If a person has depression and addictions, when one thing goes bad, everything goes bad.
@@ -86,6 +92,8 @@ There isn’t a singular way to be successful. Ask yourself what is getting in t
 :::
 
 Ayurveda is very low-hanging fruit. One can make a lot of changes in their life, just by adopting some Ayurvedic principles. The first-line treatment for mental health problems in Ayurveda is dietary change. If you change your diet, your anxiety, depression, and anger will get better.
+
+---
 
 ## Ayurvedic Diet
 Ayurveda describes six tastes:
@@ -117,6 +125,8 @@ Alternative medicine recommends eating more fresh food and less reheated food. S
 If you like reheated food, then your taste buds might have gotten accustomed to the taste of it.
 :::
 
+---
+
 ## Ayurvedic Mental Health
 Stress affects your mind differently based on your dosha.
 
@@ -135,6 +145,8 @@ There is also a Pitta depression — depression with anger attacks. The neurotra
 Reference: https://www.ncbi.nlm.nih.gov/pubmed/9840194
 :::
 
+---
+
 ## Brain-Gut Correlation
 The hottest topic in medicine right now is brain-gut. It is the idea that if you change your gut bacteria, your mental health will change. Ayurveda has been saying that for thousands of years. Now we have scientific evidence that correlates what happens in our gut and what happens in our brain.
 
@@ -150,6 +162,8 @@ In a study, the stool was extracted from several depressed rats and transplanted
 Gluten sensitivity is a prime example of Western thinking. It says that one individual compound is THE problem for everyone. While gluten allergy is common in Vatas, if you pacify your Vata levels, your ability to tolerate gluten should get better.
 :::
 
+---
+
 ## Personality
 There is some correlation between the Myers-Briggs Type Indicator (MBTI) personality test and Ayurveda. MBTI is based on Carl Jung’s work, which is based on Ayurveda and Hindu philosophy.
 
@@ -158,6 +172,8 @@ Western psychology assumed that the mind and body are uniform; the heart functio
 :::caution Cognitive Bias
 It is possible that the Ayurveda test creates a cognitive bias, but it is unlikely because people do not know anything about it. A cognitive bias requires knowledge ahead of time, and Ayurveda seems to have scientific merit due to the genetic testing that is statistically significant.
 :::
+
+---
 
 ## Research
 There’s an emerging field called Ayurgenomics. Researchers in this field took people of different Prakriti (Vata/Pitta/Kapha) and checked if there were any statistically significant correlations between their genes and their doshas.

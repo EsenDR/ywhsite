@@ -11,6 +11,8 @@ This results in very little listening and a lot of talking AT each other. It res
 
 > For example, in political discussion, as soon as someone gets to 20% of what they want to convey, the other person is already starting to form their next sentence to reply to the first person. There is no listening between both parties and there is no actual communication — just prepared statements.
 
+---
+
 ## Reflective Listening
 Instead of following the ABABAB format, you follow AA'AA'AA' where A is their thoughts and you reply with A', a modified version of their thoughts. Not sharing your opinion immediately is one of the most effective way to communicate because communication is one person speaking and the other person reflecting back what they heard.
 
@@ -103,6 +105,8 @@ When something comes up and you bring up the coping mechanism again in a neutral
 In contrast do not ask “Do you think that drinking is a problem? Do you think you should be drinking less?” because this is casting judgment onto them.
 :::
 
+---
+
 ## Finding Interesting and Like-Minded People
 Very few people are actually boring. If you find most interactions boring, think about how you talk to people and what responses you get from them. You might get boring answers because you ask boring questions or do not bother to understand who they are or what makes them interesting.
 
@@ -119,6 +123,8 @@ Do not ask invasive questions like “what are your deepest darkest fears?” or
 :::
 
 Moreover, letting someone talk more gives you a higher probability of someone liking you, but understand that you can not MAKE someone like you. A majority of people tend to be narcissistic, and as a result, advice such as this one is for interactions with extroverts and narcissists. Sometimes people can be introverted, so you have to notice it and talk about yourself as well. Finally, do not make people talk about themselves by drilling them with questions. Let people talk about themselves.
+
+---
 
 ## Communication as an Introvert
 People think that the world is designed for extroverts. However, introverts have to understand that this is not entirely true, and play to their strengths. If you are an introvert, do not try to be an extrovert. Extroversion is not better than introversion. They are just different ways of interacting with the world.

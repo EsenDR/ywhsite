@@ -15,10 +15,14 @@ However, if an adult were to be bitten, they can experience fear and pain but th
 The difference between the child and the adult is that the brain is more well developed to handle the samskaras.
 :::
 
+---
+
 ## Origin of Samskaras
 Samskaras start at some point in our lives. However, many people assume that they form through large traumatic events only. But that is not true — their origin is usually a very small, seemingly insignificant event. When you are young (5 or 6 years old), the seed of the Samskara gets planted in your mind through that experience.
 
 Over time, this seed gets watered through different small experiences. Over time, a cognitive bias starts to form and you start to look at the world through a particular lens. The more you look at the world through this lens, the more a core belief about yourself starts to take shape. As you keep watering this Samskara through various experiences, it grows into a big, insurmountable problem.
+
+---
 
 ## Dealing with Samskaras
 There are two approaches to dissolve Samskaras:

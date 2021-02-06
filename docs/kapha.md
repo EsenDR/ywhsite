@@ -9,6 +9,8 @@ Kaphas have round faces and very full beards. They tend to be heavy-set — it i
 
 While it is true that they learn slowly, they also forget slowly. They tend to have slow acceleration but can hit very high velocities. They have high constitutions and high endurance. Using a gaming analogy, Kaphas are tanks.
 
+---
+
 ## Kapha Motivation
 Kapha (earth type) motivation is slow, steady, and resilient. It is similar to the earth, which is stable, slow, and moves slowly over time. Kapha motivation is like a marathon, it is slow to start and does not start rolling until late in the day. Kaphas are people with low acceleration and high top speed, whereas Vatas have high acceleration and low top speed.
 
@@ -19,6 +21,8 @@ Kaphas need to give themselves time to get started. Some Kaphas may have trouble
 :::caution
 Kaphas tend to be very self-critical and prone to depression. That means that they tend to give up at the worst possible moment, right when they are about to start doing their best work.
 :::
+
+---
 
 ## Kapha Diet
 Kaphas qualities are cold and wet, so if you are a Kapha, you want to eat foods that are warm and dry. For example, toast is a great food for a Kapha.

@@ -17,6 +17,8 @@ Procrastination is a solution, not a problem. It is waiting until the last minut
 
 Procrastination is hard to change or fix because it is so efficient. It is hard to convince our brain that not procrastinating is logical. It is so efficient that a majority of people procrastinate. Moreover, since there are multiple types of procrastination, we tend to misdiagnose and mistreating it.
 
+---
+
 ## Identifying the Type of Procrastination
 First, we need to diagnose what kind of procrastination we are suffering from:
 
@@ -43,6 +45,8 @@ It is caused by our brain having difficulty engaging in unclear tasks. When you 
 :::tip
 All of these kinds of procrastination can coexist and you may have to deal with two or all of them at the same time.
 :::
+
+---
 
 ## Finding a Solution to Procrastination
 ### Idealistic Procrastination
@@ -72,6 +76,8 @@ All of these kinds of procrastination can coexist and you may have to deal with 
     * What are my chances to get a job?
 
 It's harder to jump from "I need to find a job" to the interview because you can get knocked down and feel like you have to start from the bottom again. Chunking ensures that when you get knocked down you are back to the applying stage or somewhere in the middle.
+
+---
 
 ## How Intelligence Affects Procrastination
 One of the biggest problems that people face is moving into the real world and doing things outside of what they love. As crazy as it sounds, that's a perfectly reasonable problem to have.
