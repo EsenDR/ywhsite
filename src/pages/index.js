@@ -21,7 +21,7 @@ const features = [
     imageUrl: 'img/ywhgif.gif',
     description: (
       <>
-        If you found this website on its own, consider joining our <a href="https://discord.gg/XUYYuu4Ubw">discord server</a>! Our community focuses on mental health and venting.
+        If you found this website on its own, consider joining our <a href="https://discord.gg/3eWYKq5uEB">discord server</a>! Our community focuses on mental health and venting.
       </>
     ),
   },

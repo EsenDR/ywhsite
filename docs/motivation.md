@@ -157,6 +157,7 @@ A lot of the time we feel like we don’t have motivation. But if you really pay
 
 :::info
 A lot of the time when people think they lack motivation, they do things to boost it. None of that actually works because if the motivation is blocked or locked up, motivation boosting strategies aren’t gonna work.
+:::
 
 Each desire you have, each intention you have, or each goal you set for yourself, is a spiritual drain that pulls at you until its completed or finished. You can think of each desire in your mind as a Karmic tie. Every desire you create ties you up and binds you up until you let yourself get free of it.
 
