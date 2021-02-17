@@ -1,6 +1,6 @@
 module.exports = {
   title: 'YWH Resources',
-  tagline: 'Your Worries Here',
+  tagline: '💔Your Worries Here❤',
   url: 'https://ywh.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
