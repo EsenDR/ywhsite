@@ -16,16 +16,20 @@ It’s a useful lens to understand behavior but not a good way to make predictio
 ---
 
 ## The Big 5 (Five Factor Personality/OCEAN Model)
-The Big 5 is the most validated framework for personality. The Big 5 states that most people’s personalities can be placed on five different axes. The axes are
-1. Openness (how accepting of new experiences someone is)
-2. Conscientiousness (how goal-driven and/or serious someone is).
-3. Extroversion vs Introversion (same as Myers Briggs)
-4. Agreeableness (how willing to go along with things someone is)
-5. Neuroticism (a person’s tendency for internal worry)
+The Big 5 is the most validated framework for personality. The Big 5 states that most people’s personalities can be placed on five different axes. The axes are:
+1. **Extroversion**: How extroverted or introverted someone is. This does not necessarily mean how social one is, but aims to quantify how one prefers to relax. Do you gain energy from being around people, or being on your own?
+2. **Openness**: This is the tendency to be open to new experiences. Low openness implies that someone is quite traditional.
+3. **Agreeableness**: This is the measure of how likely you are to get along with people and how malleable you are.
+4. **Conscientiousness**: It is the ability to focus on a task for extended periods of time. It also governs impulse control.
+5. **Neuroticism**: It is the tendency to worry. This is not always a bad trait, as worrying about future consequences is an adaptive trait that can help you succeed.
 
-Medical students score highest in Neuroticism and Conscientiousness, and those two traits are also high in people with larger salaries.
+:::info
+Its not like high neuroticism is better than low neuroticism or that high conscientiousness is better than low conscientiousness. But our society tends to select for and reward people who have high conscientiousness.
+:::
 
-Openness has a split along political lines in the US: liberals score higher and conservatives score lower.
+> For example, medical students score highest in Neuroticism and Conscientiousness, and those two traits are also high in people with larger salaries.
+> 
+> Additionally, openness has a split along political lines in the US: liberals score higher and conservatives score lower.
 
 :::caution
 People may think being high in neuroticism is bad but if you are really low in it you’re basically the pothead that sits around and never does anything (are also low in conscientiousness).
@@ -43,6 +47,7 @@ While everyone has an intrinsic personality, it is possible to learn different w
 :::tip
 All of these traits can be worked on to move them into a place that is more constructive for your life.
 :::
+
 However, it is more important to play to your strengths than to fix your personality traits. People are guilty of thinking certain things are objectively better than other things. This western way of thinking loves to put things on a linear scale and as a result, everything becomes about being better or worse.
 
 Don’t worry about having the right personality or having the wrong personality. Think about YOUR personality and how you’re going to be good at it. Find the pathway that is suited to your strengths.

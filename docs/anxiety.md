@@ -5,9 +5,16 @@ sidebar_label: Anxiety
 ---
 
 ## What is Anxiety?
-Our mind is designed to predict problems in the future. That is one of the most powerful tools that evolution gifted us — it allowed us to predict problems in the future, and deal with them, either by preparation or avoidance. However, when this ability gets out of control, it manifests in the form of anxiety.
+Anxiety is our ability to predict danger and warn us about it. It gives us the opportunity to look into the future, anticipate problems, and take corrective action now in order to prevent bad outcomes.
 
-:::info Anxiety is our mind's ability to predict problems in the future.
+> For example, consider being worried about looking stupid at a party, or being afraid of failing a test, or being rejected in a job interview. All of these things are examples of our mind looking into the future, analyzing the situation, and warning us about danger so we can do something about it.
+
+Sometimes people say that they have anxiety over the past. But if we tunnel down into that even then, anxiety is the anticipation of future consequences of a past action.
+
+> For example, one might say “I’m anxious about what I said at the party last night.” While that looks like a past-facing statement, it’s actually the underlying worry of what people WILL think about what this person said at the part earlier. Its the anticipation of what will happen as a result that causes anxiety.
+
+:::info 
+Moreover, the smarter you are, the worse your anxiety will be. The more that your mind can compute potential futures, the more potential problems your mind will tell you to worry about.
 :::
 
 ---
@@ -87,28 +94,29 @@ Therefore, problem-solving is linear and results in fewer thoughts, which is rel
 ---
 
 ## Coping with Anxiety
-Effective coping mechanisms for anxiety usually shut off this cycle in a certain way. Some examples include:
-1. Sleep
-2. Video Games
-3. Drugs
-4. Meditation
+Since anxiety is the mind’s ability to think in the future, if we bring the mind into the present, it becomes impossible for anxiety to exist.
 
-This is not to say that all 4 of these are healthy coping mechanisms.
+**Good ways to cope**
+1. Do a focusing meditation.
+2. Take a bath. Be fully immersed in the experience.
+3. Watch a sunset.
 
-An important thing to keep in mind is to not argue with your anxious thoughts. If you argue with these thoughts, they will grow and create tension in your mind. Therefore, simply observing and letting the anxious thoughts pass and without trying to fight them is a great way to turn off the mind and prevent the anxious thoughts from multiplying.
+**Bad ways to Cope**
+1. Video games.
+2. Watching TV shows/movies.
+3. Substance use.
 
-:::info
-To keep the mind from growing and staying active, we can avoid tension, conflict, excitement, and fantasies.
-:::
+### Confidence and Insecurity
+The other interesting solution is that once you actually end up in situations where you have to engage, such as a party, if you can actually focus on the experience of engaging with people, the anxiety melts away. It’s the anticipation of engaging that keeps you stuck.
 
-Solutions for anxiety are:
-1. Watching a sunset
-2. Meditation
-3. Eating something pleasant or unpleasant with full awareness.
+Therefore, the other solution to anxiety is to develop confidence. Consider how you try to remove the uncertainty to control your anxiety. However, that makes the problem worse because you never face uncertainty and therefore, never develop the confidence to face it. That means that every time life throws uncertainty at you, your anxiety gets worse.
 
-The common aspect between all these activities is that they draw our focus away from the anxious thoughts into an engaging activity. That is why gaming can help us reduce our thoughts because we can play and focus on the moment.
+So, if you can develop confidence to face uncertainty. Resolve your personal insecurity, so you don’t need to control your environment to alleviate anxiety. If you don’t need to control your life, your life becomes less restrictive, and you become more free.
 
-> **Solution**:
-> Future - bring the mind to the present through meditation or other meditative practices.
-> Growing tension - don't feed the mind; don't argue and reassure the anxious thoughts
-> I/Me - decrease the ego 
+### Taming Anxious Thoughts
+AN important thing to keep in mind is to not argue with your anxious thoughts. If you argue with these thoughts, they will grow and create tension in your mind. Therefore, simply observing and letting the anxious thoughts pass and without trying to fight them is a great way to turn off the mind and prevent the anxious thoughts from multiplying.
+
+> **Solution:**
+> 1. Future - bring the mind to the present through meditation or other meditative practices.
+> 2. Growing tension - don't feed the mind; don't argue and reassure the anxious thoughts
+> 3. I/Me - decrease the ego 

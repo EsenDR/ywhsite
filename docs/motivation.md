@@ -253,6 +253,7 @@ Saying that you are lazy is actually a really dangerous train of thought, even i
 :::
 
 Willpower and motivation are completely different things. If you are motivated to do something you do not need willpower to do it.
+
 > For example, if you are already full and you need to eat an apple, then you have to use willpower to eat it because you don't feel like eating it. As time goes on, you start to get a little bit hungrier. However, eight hours from now you're pretty hungry and suddenly you do not need the willpower to eat the apple anymore. You're motivated to eat the apple because you are now hungry enough.
 > 
 > You have this internal biological drive to eat and that is why you feel hungry. Your blood sugar drops and it becomes easy to eat the apple even if you do not like apples. If you don't like apples and wait eight hours, it is still going to require some willpower for you to eat the apple. If you wait 24 hours then you are going to be even more motivated to eat it because you are going to be starving. If you wait 48 hours, your motivation to eat the apple is going to be gigantic.
@@ -324,6 +325,8 @@ In the west, there is a particular motivational style that we shoot for, and the
 So we turn to Ayurveda. It is a system of traditional Indian medicine from 5000 years ago. It presupposes the people are fundamentally different. It talks about three things called doshas. Doshas are a way of lumping people together. They are not real in the truest sense —they are just used as a method of classification.
 
 Doshas relate to the elements: there is a wind type, fire type, and earth type.
+
+It is important to recognize your motivational style and then structure your life according to that. If you try to work with a motivational style that does not fit with you, then you will get frustrated, burnt out, and produce low quality work.
 
 ### Vata Motivation
 Vata (wind type) minds are dynamic, which means their mind is all over the place. They are also prone to ADHD and anxiety. They get very excited about one thing, and lose interest equally quickly. A lot of people say that their motivation comes and goes, and so they lack follow-through. They think that this is a problem to be fixed, and that is when they get stuck.

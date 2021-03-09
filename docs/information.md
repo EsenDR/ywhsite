@@ -68,6 +68,9 @@ import TabItem from '@theme/TabItem';
   **[Addiction](https://ywh.netlify.app/docs/addiction)**
   > How do we define addiction? What are avoidant behaviors? Is complete absitnence always the right strategy?
 
+  **[Disillusionment](https://ywh.netlify.app/docs/disillusionment)**  
+  > How can defeatist mentality affect our lives?
+
   **[Borderline Personality Disorder](https://ywh.netlify.app/docs/bpd)**
   > What is BPD? How does it differ from Bipolar Disorder? What is the correlation between Self-Esteem and BPD? How can we deal with BPD?
   

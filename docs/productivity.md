@@ -11,8 +11,6 @@ In the east, they use elements to create a personality model. Ayurveda talks abo
 
 In the western system, there is one very good validated model of personality called the 5 Factor model. Using a technique called factor analysis, they found that personality tends to cluster in five different groups.
 
----
-
 ### How do I Boost my Conscientiousness?
 Let’s explore what is happening in your mind when you have to work, but want to talk to friends or watch YouTube. In that moment, you have two impulses that are aimed in opposite directions.
 

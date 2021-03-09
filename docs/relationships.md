@@ -9,7 +9,7 @@ First of all, if you do not have real-life friends and feel ashamed about it, st
 
 To make new friends, you need a regular amount of unplanned interaction with people of a common cause/goal/interest. This is why people make friends with coworkers and classmates, and why going to a workshop or volunteering event is the best way to make friends. People are regularly scheduled to meet up without the pressure of interacting and also share a common goal or interest like studying, learning, or working.
 
-:::info
+:::warning
 Moreover, since there is no common cause or regular interaction at the bus stop, people should not talk to random people at the train station or at the bus to make friends.
 :::
 
@@ -51,6 +51,45 @@ The best thing to do is to be proactive and understand what is changing. Don't w
 1. Physical attraction: Someone’s appearance appeals to you on a physical and biological level.
 2. Emotional attraction: This kind of attraction develops when you get to know someone and develop emotional intimacy with them. Since men are often taught to only express emotional intimacy with few people (parents, siblings, and romantic partners), they may start to confuse this intimacy with attraction.
 3. Spiritual attraction: This does not have a lot of scientific basis, but a lot of people experience this, and it is a running archetype throughout our stories and human history.
+
+### Meeting New People
+When you talk to someone, it is not your job to spark interest. It is not your job to make the other person engage back. Your job is not to make them like you or get them interested.
+
+You are like a street vendor who has a table of stuff that is laid out. Your job is to lay out the stuff on the table, and if they are interested, they’ll play the game.
+
+It’s not about saying the right thing or the wrong thing, it’s about saying what you have to say. Put yourself out there.
+
+> There’s small talk, but there are also some questions you can ask. For example, “what was 2020 like for you?” That is a great open-ended question.
+
+Show people who you are — if they are interested in that, they will engage with you. If they are not interested in that, they won’t. But you don’t want to GET them to spark interest and engage with you by being something that’s inauthentic. At that point, you’re setting yourself up for failure down the road. Be who you are and be authentic. Most people find that attractive.
+
+When you are cognitively focused on enjoying yourself and being who you are, you have a good time and other people are drawn to you. On the other hand, if you try to be something that you’re not, you start living a lie. A lot of subconscious processing goes on that prevents you from being relaxed. You start to overthink and become less fun. Be who you are and let people choose to engage or not engage with you.
+
+### Tips for a Conversation
+Ask open-ended questions, followed by an investigative response, and then a little bit of sharing.
+
+Follow a 2:1 question:answer ratio.
+
+> Example conversation when you’re interested in someone:  
+> “What was 2020 like for you?”  
+> their response  
+> “Oh, interesting. You got a cat! Cool!”  
+> their response  
+> “Tell me about your cat.”  
+> their response  
+> “Awesome! Yeah, I’m deathly allergic to cats but, now it’s tough because I clearly want to meet your cat, and I’m totally into you, so do I choose allergies or continuing to shoot my shot with you. I don’t know!”
+
+Try to engage with them around topics that seem interesting to both you guys. Ask open-ended questions.
+
+:::caution
+Avoid asking questions that make people put on the spot. Questions such as asking about someone’s career, religion, etc can be boring or risky. Steer clear of yes or no questions.
+:::
+
+If you’re really struggling, you can even go up to someone and say “For the last 10 minutes, i’ve been trying to think about how to strike up a conversation with you because I think you’re absolutely gorgeous, and I haven’t been able to come up with anything. Can you help me out?”
+
+Be authentic! If they say “I appreciate the thought, but I’m really not interested.”, you can say “Okay, thanks for letting me know! I appreciate it. Enjoy the rest of your day/night” Respect people’s boundaries and ALWAYS ask for permission.
+
+Even if you get rejected, you’ve made a world a slightly better place. You’ve made a person feel attractive or wanted by another human being. Don’t get too caught up in how its affecting you to notice the impact you have on the world.
 
 ### Breaking Up A Relationship
 Whether you do or do not something should not depend on someone’s feelings. You should not be responsible for controlling how someone feels. BUT this does not mean that you can be mean.

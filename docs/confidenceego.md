@@ -8,7 +8,7 @@ Having self-confidence is not easy. When someone fails at accomplishing somethin
 
 One way to develop confidence is to challenge yourself in a way in which no one can judge you. A simple way to do that is to do things in nature.
 
-Go to a national park, find a hill or boulder, and set yourself the goal of climbing it. Sometimes you are going to fail, at other times you are going to succeed, but nobody is going to judge you for it.
+> Go to a national park, find a hill or boulder, and set yourself the goal of climbing it. Sometimes you are going to fail, at other times you are going to succeed, but nobody is going to judge you for it.
 
 Most people don’t realize that the external reward of doing something is damaging to confidence and builds up your ego. Spending time in nature is a great way to build confidence because nature does not judge you.
 
@@ -68,6 +68,7 @@ The higher on the totem pole of success they are, the more that achievement beco
 
 > For example, if you’re trying to win someone over, you are not trying to win them over in the present, but win them over in the future. So one really simple way to move away from the future is to live in the present.
 
+### Types of Egotistical Behavior
 Clinically, there are two types of behaviors that serve the ego:  
 1. Ego Syntonic
 2. Ego Dystonic

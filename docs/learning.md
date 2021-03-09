@@ -97,3 +97,19 @@ There is a high chance that you will feel uncomfortable when you try to change. 
 Try to change and notice any discomfort during the change. Look at your mindset when you are struggling and understand how you feel at the moment. Do not look at the end result, look at the process. The process is where you fix the problem.
 
 Moreover, everyone is an individual with specific needs. When you are trying to find what works the best, self-experimentation is the most effective way to find the truth. Do not take everything that everyone says as gospel and truth. They are giving out options and advice. Only you know what you truly need.
+
+## Studying in COVID Quarantine
+COVID quarantine has made school way harder. The first thing to do is to cut yourself some slack. GPAs are dropping, and depression is 300% worse. Help yourself up instead of kicking yourself while you are down.
+
+:::info
+The school curriculum is not designed to be delivered over zoom. For example, people go to individual lectures whereas we have resources like Khan Academy which have resources that are better than what most teachers can deliver.
+:::
+
+The only way the education system can keep you paying attention for an hour is to keep you in a seat in a room devoid of anything that can interest you. Therefore, you have to literally sit and risk being humiliated if you do anything else. That does not work so well over Zoom.
+
+**How to study in quarantine:**
+
+1. Cut yourself some slack. It is hard for everyone.
+2. Set up an environment that is different from your play/recreational environment
+3. Try to use certain smells or particular music to get into work mood. Have a work/study playlist and light incense ONLY when you’re studying.
+4. If you’re having a lot of trouble, consider disconnecting your PC when you’re studying so that it is harder to turn it on and procrastinate.
