@@ -6,8 +6,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'EsenDR', // Usually your GitHub org/user name.
-  projectName: 'ywhsite', // Usually your repo name.
+  organizationName: 'EsenDR',
+  projectName: 'ywhsite',
   themeConfig: {
     navbar: {
       title: 'YWH Website',
@@ -29,6 +29,16 @@ module.exports = {
           position: 'right',
         },
       ],
+    },
+    algolia: {
+      apiKey: 'c4a5c59a4cb333512075f70587d31aa5',
+      indexName: 'YWH',
+      appId: '2RYK1I708E',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+
+      //... other Algolia params
     },
     footer: {
       style: 'dark',
@@ -90,13 +100,11 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
             'https://github.com/EsenDR/ywhsite/tree/master/docs',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
             'https://github.com/EsenDR/ywhsite/tree/master/blog',
         },
