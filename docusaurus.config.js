@@ -30,16 +30,6 @@ module.exports = {
         },
       ],
     },
-    algolia: {
-      apiKey: 'c4a5c59a4cb333512075f70587d31aa5',
-      indexName: 'YWH',
-      appId: '2RYK1I708E',
-
-      // Optional: see doc section below
-      contextualSearch: true,
-
-      //... other Algolia params
-    },
     footer: {
       style: 'dark',
       links: [
