@@ -53,7 +53,7 @@ import TabItem from '@theme/TabItem';
   **[Loneliness](https://ywh.netlify.app/docs/loneliness)**
   > Why do we feel lonely? How does it start affecting us? What is the solution to our loneliness?
 
-  **[Insecutiry](https://ywh.netlify.app/docs/insecurity)**
+  **[Insecurity](https://ywh.netlify.app/docs/insecurity)**
   > How do we overcome our insecurities? How can we stop feeding it?
 
   **[Intrusive Thoughts](https://ywh.netlify.app/docs/intrusivethoughts)**
