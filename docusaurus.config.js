@@ -1,7 +1,7 @@
 module.exports = {
   title: 'YWH Resources',
   tagline: '💔Your Worries Here❤',
-  url: 'https://ywh.netlify.app/',
+  url: 'https://www.ywhpdb.xyz/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -9,11 +9,6 @@ module.exports = {
   organizationName: 'EsenDR',
   projectName: 'ywhsite',
   themeConfig: {
-    algolia: {
-      apiKey: 'c4a5c59a4cb333512075f70587d31aa5',
-      indexName: 'YWH',
-      appId: '2RYK1I708E',
-    },
     navbar: {
       title: 'YWH Website',
       logo: {

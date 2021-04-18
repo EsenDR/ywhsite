@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/YWHicon.png',
     description: (
       <>
-        All the topics can be found <a href="https://ywh.netlify.app/docs/">here</a> or on the first Resources page.
+        All the topics can be found <a href="https://www.ywhpdb.xyz/docs/">here</a> or on the first Resources page.
       </>
     ),
   },
@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/YWHicon.png',
     description: (
       <>
-        You can find information on how to leave suggestions or how to contribute <a href="https://ywh.netlify.app/docs/#supporting-us">here</a>.
+        You can find information on how to leave suggestions or how to contribute <a href="https://www.ywhpdb.xyz/docs/#supporting-us">here</a>.
       </>
     ),
   },
