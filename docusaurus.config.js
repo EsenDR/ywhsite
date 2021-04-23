@@ -20,9 +20,8 @@ module.exports = {
           to: 'docs/',
           activeBasePath: 'resources',
           label: 'Resources',
-          position: 'left',
+          position: 'right',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/EsenDR/ywhsite',
           label: 'Contribute!',
@@ -71,10 +70,6 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
               label: 'Contribute!',
               href: 'https://github.com/EsenDR/ywhsite',
             },
@@ -94,7 +89,7 @@ module.exports = {
             'https://github.com/EsenDR/ywhsite/tree/master/docs',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           editUrl:
             'https://github.com/EsenDR/ywhsite/tree/master/blog',
         },
