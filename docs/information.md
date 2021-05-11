@@ -29,116 +29,116 @@ import TabItem from '@theme/TabItem';
   ]}>
   <TabItem value="mentalhealth">
 
-  **[Mental Health](https://ywh.netlify.app/docs/mentalhealth)**
+  **[Mental Health](mentalhealth)**
   > Outlining needs for mental health resources, when to get help, and the difference between a Psychiatrist, Psychologist, and Mental Therapist.
 
-  **[Anxiety](https://ywh.netlify.app/docs/anxiety)**
+  **[Anxiety](anxiety)**
   > What really is Anxiety? Where does it come from? What kind of pattern does an anxious mind follow? What should we work on with our Anxiety.
 
-  **[Social Anxiety](https://ywh.netlify.app/docs/anxiety)**
+  **[Social Anxiety](anxiety)**
   > How does social anxiety manifest? How do we deal with it?
 
-  **[Depression](https://ywh.netlify.app/docs/depression)**
+  **[Depression](depression)**
   > What is depression? How does clinical and congruent depression differ? How should we deal with depression? How is our mind and body connected? How do we deal with self-doubt?
 
-  **[Alexithymia](https://ywh.netlify.app/docs/alexithymia)**
+  **[Alexithymia](alexithymia)**
   > What is Alexithymia? What causes us to suppress our emotions? How should we process our emotions?
 
-  **[Stress](https://ywh.netlify.app/docs/stress)**
+  **[Stress](stress)**
   > How can we decompress after a tiring day? How can stress make us fat? Is stress-eating a physiological problem or a psychological problem?
 
-  **[Imposter Syndrome](https://ywh.netlify.app/docs/impostersyndrome)**
+  **[Imposter Syndrome](impostersyndrome)**
   > What is Imposter Syndrome? Where does it come from and how does it work? How do we stop it from affecting our daily lives?
 
-  **[Loneliness](https://ywh.netlify.app/docs/loneliness)**
+  **[Loneliness](loneliness)**
   > Why do we feel lonely? How does it start affecting us? What is the solution to our loneliness?
 
-  **[Insecurity](https://ywh.netlify.app/docs/insecurity)**
+  **[Insecurity](insecurity)**
   > How do we overcome our insecurities? How can we stop feeding it?
 
-  **[Intrusive Thoughts](https://ywh.netlify.app/docs/intrusivethoughts)**
+  **[Intrusive Thoughts](intrusivethoughts)**
   > What are the origins of intrusive thoughts? How can we deal with them?
 
-  **[Samskaras](https://ywh.netlify.app/docs/samskaras)**
+  **[Samskaras](samskaras)**
   > What are samskaras? How can we deal with them?
 
-  **[Failure](https://ywh.netlify.app/docs/failure)**
+  **[Failure](failure)**
   > What are moving goalposts? Why do we repeat the process after every success?
 
-  **[Addiction](https://ywh.netlify.app/docs/addiction)**
+  **[Addiction](addiction)**
   > How do we define addiction? What are avoidant behaviors? Is complete absitnence always the right strategy?
 
-  **[Disillusionment](https://ywh.netlify.app/docs/disillusionment)**  
+  **[Disillusionment](disillusionment)**  
   > How can defeatist mentality affect our lives?
 
-  **[Borderline Personality Disorder](https://ywh.netlify.app/docs/bpd)**
+  **[Borderline Personality Disorder](bpd)**
   > What is BPD? How does it differ from Bipolar Disorder? What is the correlation between Self-Esteem and BPD? How can we deal with BPD?
   
   </TabItem>
   <TabItem value="selfimprovement">
 
-  **[Psychology](https://ywh.netlify.app/docs/psychology)**
+  **[Psychology](psychology)**
   > How do we define the models of the mind? What is the difference between western and eastern models of the mind?
 
-  **[Motivation](https://ywh.netlify.app/docs/psychology)**
+  **[Motivation](motivation)**
   > Do we lack motivation? What is the psychology to motivation? How does it work? What is the relationship between motivation, laziness, and willpower? In this topic, learn how one can cultivate motivation, how to deal with feeling overwhelmed, and the science behind motivation.
   
-  **[Procrastination](https://ywh.netlify.app/docs/procrastination)**
+  **[Procrastination](procrastination)**
   > What is procrastination? Find out how one can identify what type of procrastination they're facing, and their solutions.
 
-  **[Confidence & Ego](https://ywh.netlify.app/docs/confidenceego)**
+  **[Confidence & Ego](confidenceego)**
   > What is Ahamkara, and how does it affect our daily lives? How does rejection lead to an ego? How does ego differ from ahamkara?
   
-  **[Personlity](https://ywh.netlify.app/docs/personality)**
+  **[Personlity](personality)**
   > How do we understand our personality? What are the Big 5? Do we need to change our personality traits?
 
-  **[Relationships](https://ywh.netlify.app/docs/relationships)**
+  **[Relationships](relationships)**
   > This section covers quite a lot of topics relating to friendships, partner relationships, friendzone, and breaking up. Please read this to get a better understanding the inner workings of a relationship.
 
-  **[Communication](https://ywh.netlify.app/docs/communication)**
+  **[Communication](communication)**
   > How can we improve our communication with others? How can we confront a loved one about an unhealthy coping mechanism? How can we find like-minded people?
 
-  **[Learning](https://ywh.netlify.app/docs/learning)**
+  **[Learning](learning)**
   > Explaining the importance of learning, and how we can learn more. In this topic, learn where knowledge comes from, and how our thoughts can shape our motivation. How can you cultivate a mind that supports you? How do you retain information?
 
-  **[Productivity](https://ywh.netlify.app/docs/productivity)**
+  **[Productivity](productivity)**
   > What are ways to increase productivity? How does conscientiousness relate to productivity? Mapping it onto Eastern Philosophy?
   
   </TabItem>
   <TabItem value="spirituality">
 
-  **[Spirituality](https://ywh.netlify.app/docs/spirituality)**
+  **[Spirituality](spirituality)**
   > What is spirituality? Does spirituality need a scientific basis? What is enlightenment?
 
-  **[Dharma](https://ywh.netlify.app/docs/dharma)**
+  **[Dharma](dharma)**
   > What is Dharma? How can Dharma help us move forward in life? How can you find your Dharma? What is the morality of Dharma? What is the science basis of Dharma?  
   There are also writing exercises set up for you to complete to help you understand yourself and what Dharma is.
 
-  **[Karma](https://ywh.netlify.app/docs/karma)**
+  **[Karma](karma)**
   > What does Karma truly mean? How does it relate to one's failures and successes? How can we use Karma to further ourselves for our future?
 
-  **[Suffering](https://ywh.netlify.app/docs/suffering)**
+  **[Suffering](suffering)**
   > How does suffering arise, and how does it manifest? Can we prevent bad things from occurring? What is the difference between pain and suffering?
 
-  **[Meditation](https://ywh.netlify.app/docs/meditation)**
+  **[Meditation](meditation)**
   > A deep dive into Meditation as a whole. Why should you meditate? What are the goal of meditation, and how can it help you see clearer? What is the right meditation for you, and how long should you meditate for?
 
-  **[Meditation Techniques](https://ywh.netlify.app/docs/meditationtechniques)**
+  **[Meditation Techniques](meditationtechniques)**
   > Here are 9 different types of mindfulness/meditation techniques to help you get started. Each technique is explained on how to do the meditation, what it is for, and how it will help you in.
   
   </TabItem>
   <TabItem value="ayurveda">
 
-  **[Ayurveda](https://ywh.netlify.app/docs/ayurveda)**
+  **[Ayurveda](ayurveda)**
   > What is the difference between Ayurveda and Western Medicine? How does Ayurveda go about treatment and diseases? What is the relation between Ayurveda and Mental Health?
 
-  **[Vata](https://ywh.netlify.app/docs/vata)**
+  **[Vata](vata)**
   > Further information about Vata dosha, and understanding the ADHD mind.
 
-  **[Pitta](https://ywh.netlify.app/docs/pitta)**
+  **[Pitta](pitta)**
   > Gain a better understanding to what a Pitta mind looks like, and what a Pitta should improve on.
 
-  **[Kapha](https://ywh.netlify.app/docs/kapha)**
+  **[Kapha](kapha)**
   > What are the defining characteristics of a Kapha mind? What should their study model look like? Their diet? 
   
   </TabItem>
