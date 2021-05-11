@@ -20,7 +20,7 @@ module.exports = {
           to: 'docs/',
           activeBasePath: 'resources',
           label: 'Resources',
-          position: 'right',
+          position: 'left',
         },
         {
           href: 'https://github.com/EsenDR/ywhsite',
