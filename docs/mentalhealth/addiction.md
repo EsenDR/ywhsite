@@ -18,7 +18,7 @@ Parents often say, “Where did my child go? That's not the kid that they were t
 ### What is Addiction?
 Preoccupation with the addicted behavior
 
-* Being unable to stop
+* Being unable to stop 
 * Being unable to cutback
 * Does it cause a problem?
 * Does it impair your function?
